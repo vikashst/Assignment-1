@@ -1,1 +1,1 @@
-// Coding Language:- JavaScript.
+Coding Language:- JavaScript.
